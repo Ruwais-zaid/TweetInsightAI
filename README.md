@@ -10,6 +10,13 @@ This project uses the **Hugging Face Transformers** library and **DistilBERT** m
 
 ---
 
+![TweetInsightAI Example2](https://res.cloudinary.com/ddfmbzizr/image/upload/v1745090323/Screenshot_2025-04-18_125443_r1agd5.png) 
+
+
+---
+
+![TweetInsightAI Example3](https://res.cloudinary.com/ddfmbzizr/image/upload/v1745090323/Screenshot_2025-04-18_125453_bz4ouz.png) 
+
 ## Key Features:
 - Real-time analysis of tweets for sentiment classification.
 - Built with **DistilBERT** for fast and accurate predictions.
