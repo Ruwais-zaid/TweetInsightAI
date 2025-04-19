@@ -6,7 +6,7 @@
 
 This project uses the **Hugging Face Transformers** library and **DistilBERT** model to perform text classification efficiently, making it suitable for real-time analysis.
 
-![TweetInsightAI Example](https://example.com/your-image-link.png) 
+![TweetInsightAI Example](https://res.cloudinary.com/ddfmbzizr/image/upload/v1745090323/Screenshot_2025-04-18_125429_iuv1xe.png) 
 
 ---
 
